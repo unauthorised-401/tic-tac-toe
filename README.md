@@ -18,3 +18,24 @@ To run this project, you'll need to have Python installed on your machine. You c
 2. Navigate to the project directory:
     ```bash
     cd tic-tac-toe
+3. Install the required dependencies (if any). For Tkinter, it comes pre-installed with Python, but you can ensure it's installed using:
+    ```bash
+    pip install tk
+
+## How to Play
+
+Run the tic_tac_toe.py file to start the game:
+
+    ```bash
+    python tic_tac_toe.py 
+    ```
+The game window will open.
+
+Click on the cells of the Tic Tac Toe board to make your move. The AI will automatically make its move after you.
+
+The game will declare the winner once a player gets three in a row, or declare a draw if the board is full without any winner.
+
+## Acknowledgements
+
+The Tkinter documentation and various online resources for Python GUI programming.
+The Minimax algorithm explanation and examples from various game theory resources.
