@@ -24,10 +24,10 @@ To run this project, you'll need to have Python installed on your machine. You c
 
 ## How to Play
 
-Run the tic_tac_toe.py file to start the game:
+Run the game.py file to start the game:
 
-    ```bash
-    python tic_tac_toe.py 
+    ```python
+    python game.py 
     ```
 The game window will open.
 
@@ -38,4 +38,5 @@ The game will declare the winner once a player gets three in a row, or declare a
 ## Acknowledgements
 
 The Tkinter documentation and various online resources for Python GUI programming.
+
 The Minimax algorithm explanation and examples from various game theory resources.
