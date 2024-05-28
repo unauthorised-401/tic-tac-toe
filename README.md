@@ -26,9 +26,8 @@ To run this project, you'll need to have Python installed on your machine. You c
 
 Run the game.py file to start the game:
 
-    ```python
-    python game.py 
-    ```
+    python game.py
+    
 The game window will open.
 
 Click on the cells of the Tic Tac Toe board to make your move. The AI will automatically make its move after you.
